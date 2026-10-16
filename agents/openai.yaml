@@ -1,0 +1,4 @@
+interface:
+  display_name: "人和动物变包子"
+  short_description: "把人或动物的原照五官融入固定包子，保留表情与眼镜，统一为面皮色"
+  default_prompt: "使用 $generate-face-baozi，把我上传的人或动物照片变成参考图里的包子，保留原照五官、表情与实际佩戴的眼镜。"
