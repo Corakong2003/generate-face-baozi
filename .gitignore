@@ -1,0 +1,17 @@
+# Public release allowlist. Ignoring is not a replacement for the audit.
+*
+!.gitignore
+!AGENTS.md
+!ASSET_LICENSE.md
+!LICENSE
+!README.md
+!SKILL.md
+!agents/
+agents/*
+!agents/openai.yaml
+!assets/
+assets/*
+!assets/base-baozi.jpg
+!scripts/
+scripts/*
+!scripts/audit_public_release.py
